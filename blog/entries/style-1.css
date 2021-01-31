@@ -1,0 +1,11 @@
+h1 {
+    text-shadow: 1px 1px 10px rgb(6, 56, 17);
+}
+
+body {  font-size: larger;
+        font-family: 'Permanent Marker', cursive;
+}
+
+footer {
+    font-family: 'Permanent Marker', cursive;
+}
