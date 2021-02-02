@@ -1,8 +1,19 @@
 h1 {
-    text-shadow: 0 0 35px rgb(160, 35, 129);
-    text-decoration: underline ;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+   
+    
+    
 }
 
 body { 
-    font-family: 'Cinzel', serif;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    color: crimson;
+    background-color: black;
+    line-height: 150%;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 200px;
 }
+
