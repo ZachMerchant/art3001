@@ -4,12 +4,16 @@ h1 {
 
 body {  font-size: larger;
         font-family: 'Permanent Marker', cursive;
+        text-shadow: 1px 1px 10px rgb(18, 185, 55);
+        background-color: slategray;
 }
 
 footer {
     font-family: 'Permanent Marker', cursive;
+    text-shadow: 1px 1px 10px rgb(6, 56, 17);
 }
 
 .div-1 {
     font-family: 'Permanent Marker', cursive;
+    text-shadow: 1px 1px 10px rgb(6, 56, 17);
 }
