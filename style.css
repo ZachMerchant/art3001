@@ -1,5 +1,5 @@
 body {
-    background-color: aquamarine;
+    background-color:#814d1c;
     padding: 0;
     margin: 0;
     width: 100vw;
@@ -21,6 +21,7 @@ body {
 
 .headerimg img{    
     width: 100%;
+    height: 100%;
 
 } 
 
@@ -29,9 +30,19 @@ body {
     grid-row: 2/3;
 }
 
+.blogsimg img {
+    width: 100%;
+    height: 100%;
+}
+
 .internetart {
     grid-column: 7/13;
     grid-row: 2/3;
+}
+
+.internetartimg img {
+    width: 100%;
+    height: 100%;
 }
 
 .projects {
@@ -39,14 +50,29 @@ body {
     grid-row: 3/4;
 }
 
+.projectsimg img {
+    width: 100%;
+    height: 100%;
+}
+
 .contact {
     grid-column: 7/13;
     grid-row: 3/4;
 }
 
+.contactimg img {
+    width: 100%;
+    height: 100%;
+}
+
 .characture {
     grid-column: 1/13;
     grid-row: 4/5;
+}
+
+.charactureimg img {
+    width: 100%;
+    height: 100%;
 }
 
 .gallery {
