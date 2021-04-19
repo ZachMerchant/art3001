@@ -1,0 +1,33 @@
+h1 {
+    text-shadow: 1px 1px 10px rgb(6, 56, 17);
+    font-family: 'Permanent Marker', cursive;
+}
+
+h2  {
+        text-shadow: 1px 1px 10px rgb(6, 56, 17);
+        font-family: 'Permanent Marker', cursive;
+}
+
+header {
+    text-shadow: 1px 1px 10px rgb(6, 56, 17);
+    font-family: 'Permanent Marker', cursive;
+}
+
+body {  font-size: larger;
+        font-family: 'Permanent Marker', cursive;
+        background-color: slategray;
+        text-shadow: 1px 1px 10px rgb(32, 189, 66);
+}
+
+footer {
+    font-family: 'Permanent Marker', cursive;
+    text-shadow: 1px 1px 10px rgb(6, 56, 17);
+}
+
+.div {
+    font-family: 'Permanent Marker', cursive;
+    text-shadow: 1px 1px 10px rgb(6, 56, 17);
+    text-align: center;
+    padding: 50px;
+
+}
